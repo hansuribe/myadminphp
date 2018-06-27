@@ -30,7 +30,7 @@ $cfg['Servers'][$i]['auth_type'] = 'cookie';
 
 $cfg['Servers'][$i]['user'] = 'root';
 $cfg['Servers'][$i]['password'] = 'root';
-$cfg['Servers'][$i]['AllowNoPassword'] = true;
+
 
 /* End of servers configuration */
 
